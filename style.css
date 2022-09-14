@@ -1,0 +1,18 @@
+div {
+    margin: 0px;
+    padding: 0px;
+}
+
+svg {
+    width: 1200px;
+    height: 668px;
+    background: url(images/outline.svg);
+    background-color: #49539b;
+    background-repeat: no-repeat;
+    background-size: 1200px 668px;
+
+}
+
+#title {
+    font: 40px Helvetica;
+}
